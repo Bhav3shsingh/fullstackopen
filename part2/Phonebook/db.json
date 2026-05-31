@@ -1,0 +1,30 @@
+{
+  "persons": [
+    {
+      "name": "jeemu",
+      "number": "9090",
+      "id": "1212"
+    },
+    {
+      "name": "sol",
+      "number": "909",
+      "id": "9bw2BkRvxY4"
+    },
+    {
+      "name": "jack",
+      "number": 0,
+      "id": "Z2ULHXhqgbM"
+    },
+    {
+      "name": "koko",
+      "number": "0122",
+      "id": "wqsM2vEEWj4"
+    },
+    {
+      "name": "sexa",
+      "number": "02",
+      "id": "SHmpe9I4cWk"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
